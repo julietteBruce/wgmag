@@ -13,6 +13,6 @@ img.avatar { margin-bottom: 30px;  width:30px; height:30px; }
 .thumb-img{
    object-fit: cover;
    overflow: hidden;
-   height: 30px; 
-   width : 30px;
+   height: 365px; 
+   width : 365px;
 }  
