@@ -1,8 +1,5 @@
 img.avatar { margin-bottom: 30px;  width:30px; height:30px; }
 
-img.grid { margin-bottom: 30px;  width:30px; height:30px; }
- 
-
 .port-image
 {
     width: 100%;
@@ -12,3 +9,10 @@ img.grid { margin-bottom: 30px;  width:30px; height:30px; }
 {
     margin-bottom: 30px;
 }
+
+.thumb-img{
+   object-fit: cover;
+   overflow: hidden;
+   height: 30vw; 
+   width : 30vw;
+}  
