@@ -1,2 +1,11 @@
 img.avatar { margin-bottom: 30px;  width:300px; height:300px; }
-img.responsive { margin-bottom: 30px;  width:200px; height:200px; }
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
